@@ -1,17 +1,17 @@
 {
-  "name": "nextjs-tailwind-portfolio-page",
+  "name": "fadli-portfolio",
   "version": "1.0.0",
   "private": true,
-  "author": "Creative Tim",
+  "author": "Fadli Nurhidayat",
   "license": "See license in https://www.creative-tim.com/license",
-  "homepage": "https://github.com/themewagon/Next.js-Tailwind-CSS-Portfolio-Template",
+  "homepage": "https://vrhidayat.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "touch out/.nojekyll && gh-pages -d out"
+    "deploy": "touch out/.nojekyll && gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "@heroicons/react": "2.0.18",
