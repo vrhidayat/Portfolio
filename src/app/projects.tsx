@@ -6,58 +6,58 @@ import { getImagePrefix } from "../../utils/utils";
 
 const PROJECTS = [
     {
-        img: `${getImagePrefix()}optigrade.png`,
+        img: `${getImagePrefix()}image/optigrade.png`,
         title: "OptiGrade",
         desc: "OptiGrade is a web-based decision support system for fair and transparent employee evaluation using the Analytic Hierarchy Process (AHP). It helps organizations define criteria, rank employees objectively, and automate rewards through structured grading and promotion rules.",
         link: "https://github.com/vrhidayat/spk-app-1.git"
     },
     {
-        img: `${getImagePrefix()}ASING.jpg`,
+        img: `${getImagePrefix()}image/ASING.jpg`,
         title: "ASING! (Awas Stunting)!",
         desc: "a member of the development of ASING!, a mobile application that leverages machine learning to classify food suitability for pregnant women, providing nutrition analysis and education to help reduce stunting in Indonesia.",
         link: "https://github.com/ASING-Awas-Stunting"
     },
     {
-        img: `${getImagePrefix()}blog3.svg`,
+        img: `${getImagePrefix()}image/blog3.svg`,
         title: "e-Investigasi",
         desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
         link: "",
         showlink: false
     },
     {
-        img: `${getImagePrefix()}blog4.svg`,
+        img: `${getImagePrefix()}image/blog4.svg`,
         title: "Intelligent HRIS",
         desc: "Ecommerce website offering  access to the latest and greatest gadgets and accessories.",
         link: "",
         showlink: false
     },
     {
-        img: `${getImagePrefix()}blog4.svg`,
+        img: `${getImagePrefix()}image/blog4.svg`,
         title: "Inventory",
         desc: "Ecommerce website offering  access to the latest and greatest gadgets and accessories.",
         link: "",
         showlink: false
     },
     {
-        img: `${getImagePrefix()}blog4.svg`,
+        img: `${getImagePrefix()}image/blog4.svg`,
         title: "SiPe-YPK",
         desc: "Developed SiPe-YPK, a desktop-based payment management system for a vocational school, designed with UML to streamline and monitor SPP payment processes developed with Visual Basic.",
         link: "https://github.com/vrhidayat/SiPe-YPK-Rx.git",
     },
     {
-        img: `${getImagePrefix()}blog4.svg`,
+        img: `${getImagePrefix()}image/blog4.svg`,
         title: "Bemvote",
         desc: "a web-based student council chairman election management system developed with PHP.",
         link: "https://github.com/vrhidayat/bemvote.git",
     },
     {
-        img: `${getImagePrefix()}bingocode.jpg`,
+        img: `${getImagePrefix()}image/bingocode.jpg`,
         title: "BingoCode",
         desc: "Designed BingoCode, a gamified learning platform for programming languages, designed with UML and IEEE-standard SRS to ensure structured and user-focused development.",
         link: "",
     },
     {
-        img: `${getImagePrefix()}e-problempei.jpg`,
+        img: `${getImagePrefix()}image/e-problempei.jpg`,
         title: "E-Problem PEI",
         desc: "Developed E-Problem PEI, an Android application for reporting campus issues at Politeknik Enjinering Indorama, built with an SRS approach to ensure user needs were fully met.",
         link: "",
