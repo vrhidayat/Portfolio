@@ -6,7 +6,7 @@ import { getImagePrefix } from "../../utils/utils";
 
 const PROJECTS = [
     {
-        img: `${getImagePrefix()}image/optigrade.png`,
+        img: `/image/optigrade.png`,
         title: "OptiGrade",
         desc: "OptiGrade is a web-based decision support system for fair and transparent employee evaluation using the Analytic Hierarchy Process (AHP). It helps organizations define criteria, rank employees objectively, and automate rewards through structured grading and promotion rules.",
         link: "https://github.com/vrhidayat/spk-app-1.git"
