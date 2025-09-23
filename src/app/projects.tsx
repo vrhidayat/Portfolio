@@ -45,12 +45,6 @@ const PROJECTS = [
         link: "https://github.com/vrhidayat/SiPe-YPK-Rx.git",
     },
     {
-        img: `${getImagePrefix()}image/blog4.svg`,
-        title: "Bemvote",
-        desc: "a web-based student council chairman election management system developed with PHP.",
-        link: "https://github.com/vrhidayat/bemvote.git",
-    },
-    {
         img: `${getImagePrefix()}image/bingocode.jpg`,
         title: "BingoCode",
         desc: "Designed BingoCode, a gamified learning platform for programming languages, designed with UML and IEEE-standard SRS to ensure structured and user-focused development.",
