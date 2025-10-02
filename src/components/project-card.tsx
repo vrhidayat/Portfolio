@@ -53,7 +53,7 @@ export function ProjectCard({ img, title, desc, link, showlink = true }: Project
                         className="flex items-center gap-2"
                         onClick={() => { link }}
                     >
-                        <Github className="h-5 w-5" /> Github
+                        <Github className="h-5 w-5" /> Code
                     </Button>
                 )}
             </CardBody>
