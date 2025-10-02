@@ -112,7 +112,7 @@ function About() {
                                 color="black"
                                 size="lg"
                                 className="flex items-center gap-2"
-                                onClick={() => window.open("/Fadli_CV.pdf", "_blank", "noopener")}
+                                onClick={() => window.open("/CV_ATS_Fadli.pdf", "_blank", "noopener")}
                             >
                                 Open CV
                             </Button>
