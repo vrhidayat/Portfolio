@@ -103,6 +103,32 @@ function About() {
                         </ul>
                     </div>
 
+                    {/* CV Download */}
+                    <div className="mt-6">
+                        <h3 className="uppercase text-gray-400 font-semibold tracking-widest mb-2">
+                            CV
+                        </h3>
+                        <div className="flex gap-3">
+                            {/* Direct download - will download the file */}
+                            <a
+                                href="/CV_ATS_Fadli.pdf"
+                                download="Fadli_Nurhidayat_CV.pdf"
+                                className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
+                            >
+                                Download CV
+                            </a>
+
+                            {/* Open in new tab */}
+                            <a
+                                href="/CV_ATS_Fadli.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-block border border-gray-300 hover:bg-gray-50 text-gray-700 px-4 py-2 rounded"
+                            >
+                                Open PDF
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
