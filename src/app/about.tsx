@@ -1,7 +1,6 @@
 "use client"
 
 import Image from "next/image";
-import { Github } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 
 function About() {
@@ -115,7 +114,7 @@ function About() {
                                 className="flex items-center gap-2"
                                 onClick={() => window.open("/Fadli_CV.pdf", "_blank", "noopener")}
                             >
-                                <Github className="h-5 w-5" /> Open CV
+                                Open CV
                             </Button>
                         </div>
                     </div>
