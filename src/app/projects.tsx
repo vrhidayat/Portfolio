@@ -57,7 +57,7 @@ const PROJECTS = [
         link: "",
     },
     {
-        img: `${getImagePrefix()}image/workout-tracker`,
+        img: `${getImagePrefix()}image/workout-tracker.png`,
         title: "Workout Tracker",
         desc: "A simple workout tracker project built with Go (Golang) for the backend and Next.js + Mantine for the frontend. It allows users to pick a date from a calendar, view their workouts for that day, add new workouts (with sets & reps), and delete workouts.",
         link: "https://github.com/vrhidayat/workout-tracker.git",
